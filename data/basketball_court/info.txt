@@ -1,0 +1,13 @@
+Name: Basketball_15x28
+Version: 2015
+Preview: Yes
+Units: Millimeters
+Dimension: 31997.7 x 18996.9 x 4017.73
+Polys: 4 546
+XForm: Yes
+Box Trick: Yes
+Model Parts: 1
+Render: Corona
+Formats: 3Ds Max 2015, OBJ, FBX
+
+https://3dlancer.net/en/freemodels/sports-equipment/3dmodel-basketball-court-12931

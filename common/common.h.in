@@ -1,0 +1,4 @@
+#pragma once
+
+static const char *DATA_DIRECTORY = "${WORKING_DIR}/data/";
+static const char *SHADER_DIRECTORY = "${WORKING_DIR}/src/${PROJECT_DIR}/shaders/";

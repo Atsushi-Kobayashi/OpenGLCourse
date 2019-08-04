@@ -1,0 +1,1 @@
+https://free3d.com/ja/3d-model/official-nba-spalding-basketball-86751.html
